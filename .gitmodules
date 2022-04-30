@@ -10,3 +10,7 @@
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
 	branch = 14.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 14.0
